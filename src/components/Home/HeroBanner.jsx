@@ -1,5 +1,5 @@
 import React from "react";
-import ImgHero from "../../../public/schoolfinder.png";
+import ImgHero from "../../asset/schoolfinder.png";
 const HeroBanner = () => {
   return (
     <div>

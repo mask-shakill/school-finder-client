@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "name":"বাংলাদেশ কারিগরি শিক্ষা বোর্ড",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/BTEB.jpg",
+        "link":"https://bteb.gov.bd/"
+    },
+    {
+        "id":"2",
+        "name":"বাংলাদেশ মাদ্রাসা শিক্ষা বোর্ড",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/mad_logo.jpg",
+        "link":"https://bmeb.gov.bd/"
+    },
+    {
+        "id":"3",
+        "name":"মাধ্যমিক ও উচ্চমাধ্যমিক শিক্ষা বোর্ড, ঢাকা",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/logo.png",
+        "link":"https://dhakaeducationboard.gov.bd/"
+    },
+    {
+        "id":"4",
+        "name":"মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, চট্টগ্রাম",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/logo.png.jpg",
+        "link":"http://www.bise-ctg.gov.bd/"
+    },
+    {
+        "id":"5",
+        "name":"মাধ্যমিক ও উচ্চমাধ্যমিক শিক্ষা বোর্ড, কুমিল্লা",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/bise-comilla.jpg.png",
+        "link":"http://www.comillaboard.gov.bd/"
+    },
+    {
+        "id":"6",
+        "name":"মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, রাজশাহী",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/index.jpg",
+        "link":"http://www.rajshahieducationboard.gov.bd/"
+    },
+    {
+        "id":"7",
+        "name":"মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, যশোর",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/index.jpg",
+        "link":"http://www.rajshahieducationboard.gov.bd/"
+    },
+    {
+        "id":"8",
+        "name":"মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, বরিশাল",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/gdgdg.gif",
+        "link":"http://www.barisalboard.gov.bd/"
+    },
+    {
+        "id":"9",
+        "name":"মাধ্যমিক ও উচ্চমাধ্যমিক শিক্ষা বোর্ড,সিলেট",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/logo%20%281%29.png",
+        "link":"http://sylhetboard.gov.bd/"
+    },
+    {
+        "id":"10",
+        "name":"মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, দিনাজপুর",
+        "img":"http://bangladesh.gov.bd/sites/default/files/files/bangladesh.gov.bd/page/62a528f0_da70_4759_ade6_f33eb1067b9e/index%20%281%29.jpg",
+        "link":"http://www.dinajpureducationboard.gov.bd/"
+    }
+]
