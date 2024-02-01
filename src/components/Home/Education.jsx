@@ -4,7 +4,9 @@ const Education = () => {
   return (
     <div>
       <div className=" mx-14 py-10 mt-10">
-        <h1 className="text-2xl font-semibold">Education</h1>
+        <h1 className="text-2xl font-semibold mb-4 text-slate-700">
+          Education
+        </h1>
         <p className="text-lg">Help all children to reach their potential.</p>
         <p className="text-justify">
           Ensuring that every child reaches their full potential is a collective
@@ -19,7 +21,7 @@ const Education = () => {
         </p>
       </div>
       <img
-        className="w-full h-[500px]"
+        className="w-full h-[600px] mb-2"
         src="https://img.freepik.com/free-photo/school-children-dressed-uniform-have-fun-play-schoolyard_8353-6640.jpg?w=740&t=st=1706799225~exp=1706799825~hmac=32f8c0612d781d1ebbabb9711242c80a6206e9db548d34cfe49b807545ab406e"
         alt=""
       />

@@ -18,7 +18,7 @@ const ExploreBoard = () => {
             key={board.id}
             className="relative flex items-center  bg-white border shadow-lg  rounded-xl "
           >
-            <div className="bg-blue-400  text-white font-bold  text-xl w-20 flex items-center justify-center py-8 ">
+            <div className="bg-blue-500  text-white font-bold  text-xl w-20 flex items-center justify-center py-8 ">
               {board.id}
             </div>
 
