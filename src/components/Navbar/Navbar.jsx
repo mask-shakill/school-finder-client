@@ -28,7 +28,7 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <Link to={"/"}>Edu News</Link>
+          <Link to={"/news"}>Edu News</Link>
         </li>
         <li>
           <Link to={"/"}>Blogs</Link>
