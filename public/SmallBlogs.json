@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "img": "https://vnsc.edu.bd/media/album/big%20(1).png",
+    "link": "https://www.vnsc.edu.bd/photo-gallerys/photo-gallery",
+    "title": "Festive in Viqarunnisa school",
+    "content": "lorem Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam, accusantium!"
+  },
+  {
+    "id": "2",
+    "title": "এমপি মহোদয়ের হাত থেকে পুরস্কার গ্রহন",
+    "img": "https://akschoolandcollege.edu.bd/wp-content/uploads/2023/09/15-august-program-3.jpg",
+    "link": "https://akschoolandcollege.edu.bd/photo-gallery/",
+    "content": "lorem Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam, accusantium!"
+  },
+  {
+    "id": "3",
+    "title": "এমপি মহোদয়ের হাত থেকে পুরস্কার গ্রহন",
+    "img": "https://akschoolandcollege.edu.bd/wp-content/uploads/2023/09/program-2.jpg",
+    "link": "https://akschoolandcollege.edu.bd/photo-gallery/",
+    "content": "lorem Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam, accusantium!"
+  },
+  {
+    "id": "4",
+    "title": "পাঠ্যপুস্তক উৎসব ২০২৪ ",
+    "img": "http://www.rajukcollege.edu.bd/Uploads/RUMC/EventPhoto/cda8ffa7-a0a2-4eb7-ac10-0cdfe6dd404a415522049_903464437799720_7458165701446841269_n.jpg",
+    "link": "http://www.rajukcollege.edu.bd/Pages/Events/EventDetailsN.aspx?eventId=67",
+    "content": "১ জানুয়ারি ২০২৪ রাজউক উত্তরা মডেল কলেজের কর্নেল নুরন্ নবী হলে উদযাপিত হয় ‘পাঠ্যপুস্তক উৎসব’২০২৪। বছরের প্রথম দিনে শিক্ষার্থীরা নতুন বই পেয়ে হাতে উচ্ছ্বাস প্রকাশ করে।"
+  },
+  {
+    "id": "5",
+    "title": "বরণ ও বিদায় অনুষ্ঠান ২০২৪ ",
+    "img": "http://www.rajukcollege.edu.bd/Uploads/RUMC/EventPhoto/d751ebf6-7bcc-427b-95c5-28d0b839743b_DSF5663.jpg",
+    "link": "http://www.rajukcollege.edu.bd/Pages/Events/EventDetailsN.aspx?eventId=66",
+    "content": "গত ৯ জানুয়ারি, ২০২৪ শিক্ষাবর্ষে রাজউক উত্তরা মডেল কলেজে ষষ্ঠ ও নবম শ্রেণির নবাগত শিক্ষার্থীদের পরিচিতি ও বরণ অনুষ্ঠান অনুষ্ঠিত হয়। সাংস্কৃতিক অনুষ্ঠান শেষে বক্তব্য রাখেন অধ্যক্ষ মহোদয় ব্রিগেডিয়ার জেনারেল এ এস এম বাহাউদ্দিন।"
+  },
+  {
+    "id": "6",
+    "title": "চট্টগ্রাম ক্যান্টনমেন্ট পাবলিক কলেজ Sports 2024",
+    "img": "https://ccpc-edu-bd.s3.ap-southeast-1.amazonaws.com/2024/gallery/170658294612.jpeg",
+    "link": "https://ccpc.edu.bd/photo-gallery",
+    "content": "lorem Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam, accusantium!"
+  },
+  {
+    "id": "7",
+    "title": "Champion in Inter School Football Competition-2024",
+    "img": "https://www.acps.edu.bd/media/imgAll/02-10-2023-1696215489.jpg",
+    "link": "https://www.acps.edu.bd/details?content-id=29",
+    "content": "Inter School Football Competition-2023, the final match was held on 21/08/23  between Adamjee Cantonment Public School and Shaheed Ramiz Uddin Cantonment School & College."
+  },
+  {
+    "id": "8",
+    "title": "Champion in Inter Cantonment Public School Debate ",
+    "img": "https://www.acps.edu.bd/media/imgAll/15-09-2022-1663237843.jpg",
+    "link": "https://www.acps.edu.bd/details?content-id=26",
+    "content": "Inter Cantonment Parliamentary Debate Competition-2022, Dhaka Area final round was held on 24/12/23 between Adamjee Cantonment Public School and Shaheed Bir Uttam Lt Anwar Girls’ College. "
+  }
+]
