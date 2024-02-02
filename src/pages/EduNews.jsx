@@ -20,8 +20,8 @@ const EduNews = () => {
             understanding of the educational journey."
           </p>
           <div className="mt-20">
-            <h1 className="font-semibold text-2xl bg-lime-600 text-white text-center mb-2">
-              Most Visited All Bangla Educational Newspaper 2024
+            <h1 className="font-semibold text-2xl bg-slate-800 p-3 text-white text-center mb-2">
+              Most Visited Bangla Educational Newspaper 2024
             </h1>
             <AllNews />
             <div>
