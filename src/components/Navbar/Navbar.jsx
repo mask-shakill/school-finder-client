@@ -28,7 +28,7 @@ const Navbar = () => {
           </a>
         </li>
         <li>
-          <Link to={"/news"}>Edu News</Link>
+          <Link to={"/news"}>E-learning</Link>
         </li>
         <li>
           <Link to={"/blog"}>Blogs</Link>

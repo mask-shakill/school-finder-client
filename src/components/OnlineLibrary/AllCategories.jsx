@@ -12,7 +12,11 @@ const AllCategories = () => {
             src="https://cdn-icons-png.freepik.com/256/2232/2232688.png?uid=R95679985&ga=GA1.1.945868740.1697346172&semt=ais"
             alt=""
           />
-          <a href="" className="flex items-center ms-3 font-semibold">
+          <a
+            href="https://nctbbook.com/"
+            target="_blank"
+            className="flex items-center ms-3 font-semibold"
+          >
             Text Books
             <IoIosArrowForward className="text-xl ms-3" />
           </a>

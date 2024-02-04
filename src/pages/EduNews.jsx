@@ -25,11 +25,11 @@ const EduNews = () => {
             </h1>
             <AllNews />
             <div>
-              <p className="text-2xl font-semibold mt-16">
+              <p className="text-2xl font-semibold mt-16 bg-blue-600 text-white w-[550px] text-center p-4">
                 {" "}
-                Live Some Educational Tv
+                Live some educational video
               </p>{" "}
-              <hr className="h-[4px] bg-black w-[300px]" /> <br />
+              <hr className="h-[10px] mt-1 bg-orange-700 w-[550px]" /> <br />
               <ReactPlayer
                 height="300px"
                 width="550px"
@@ -40,6 +40,30 @@ const EduNews = () => {
                 height="300px"
                 width="550px"
                 url="https://youtu.be/sb54zo11hSU"
+              />{" "}
+              <br />
+              <ReactPlayer
+                height="300px"
+                width="550px"
+                url="https://www.youtube.com/watch?v=0_A9J3q3SrE&pp=ygUKZWR1Y2F0aW9uIA%3D%3D"
+              />
+            </div>
+            <div>
+              <p className="text-2xl font-semibold mt-16 bg-yellow-600 text-white w-[550px] text-center p-4">
+                {" "}
+                Educational videos for kids
+              </p>{" "}
+              <hr className="h-[10px] mt-1 bg-orange-700 w-[550px]" /> <br />
+              <ReactPlayer
+                height="300px"
+                width="550px"
+                url="https://youtu.be/XF_RhnCGuHM"
+              />{" "}
+              <br /> <br />
+              <ReactPlayer
+                height="300px"
+                width="550px"
+                url="https://youtu.be/0GAhHaK4y58"
               />{" "}
               <br />
               <ReactPlayer
@@ -72,6 +96,34 @@ const EduNews = () => {
             height="300px"
             width="550px"
             url="https://www.youtube.com/watch?v=eR_F3PIbFsE"
+          />
+          <p className="text-2xl font-semibold mt-16 bg-lime-600 text-white w-[550px] text-center p-4">
+            {" "}
+            Educational crafting videos for kids
+          </p>{" "}
+          <hr className="h-[10px] mt-1 bg-orange-700 w-[550px]" /> <br />
+          <ReactPlayer
+            height="300px"
+            width="550px"
+            url="https://www.youtube.com/watch?v=HDFL15FxWEc&pp=ygUNa2lkcyBjcmFmdGluZw%3D%3D"
+          />{" "}
+          <br />
+          <ReactPlayer
+            height="300px"
+            width="550px"
+            url="https://www.youtube.com/watch?v=2hcLN7OXCF0&pp=ygUNa2lkcyBjcmFmdGluZw%3D%3D"
+          />{" "}
+          <br />
+          <ReactPlayer
+            height="300px"
+            width="550px"
+            url="https://www.youtube.com/watch?v=TJXqoONf4lc&pp=ygUNa2lkcyBjcmFmdGluZw%3D%3D"
+          />{" "}
+          <br />
+          <ReactPlayer
+            height="300px"
+            width="550px"
+            url="https://www.youtube.com/watch?v=lpHXVM6ELwk&pp=ygUNa2lkcyBjcmFmdGluZw%3D%3D"
           />
         </div>
       </section>

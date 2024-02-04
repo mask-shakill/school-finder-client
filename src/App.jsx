@@ -7,6 +7,7 @@ import Footer from "./components/Footer/Footer";
 import Library from "./pages/Library";
 import EduNews from "./pages/EduNews";
 import Blogs from "./pages/Blogs";
+import Profile from "./pages/Profile";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <Route path="/library" element={<Library />}></Route>
         <Route path="/news" element={<EduNews />}></Route>
         <Route path="/blog" element={<Blogs />}></Route>
+        <Route path="/profile" element={<Profile />}></Route>
       </Routes>
       <Footer />
     </BrowserRouter>
